@@ -11,7 +11,7 @@ The To-Do App is a simple yet stylish app built with Swift and Core Data. It is 
 
 
 ## Demo
-### Delete
+### Add + Delete
 <img src="ToDo/AddAndDelete.gif" alt="To-Dp App Demo" width="250" height="400">
 
 ### Edit 
